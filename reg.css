@@ -1,0 +1,13 @@
+label{
+    display:block;
+    padding: 10px;
+}
+form{
+    margin:0px 150px 0px 150px;
+    border-radius: 20px;
+    background-color: rgb(255, 0, 170);
+}
+#submit{
+    padding: 10px;
+    border-radius: 20px;
+}
